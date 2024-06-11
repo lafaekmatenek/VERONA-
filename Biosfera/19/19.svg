@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0_19{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-miterlimit: 10;
+}
+.g1_19{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-linejoin: round;
+}
+.g2_19{
+fill: #000;
+}
+]]></style>
+</defs>
+<path d="M447.3 247.2H513m158.8 63.7h56.5" class="g0_19"/>
+<path d="M185.2 555.9H724.9M473.2 595H724.9M473.2 631.2H724.9M473.2 689.9H724.9M185.2 726.5H724.9M473.2 789.6H724.9M185.2 853.2H724.9M309.6 892.3H474M185.2 931.4H724.9M185.6 555.5V931.8M310 555.5V931.8M398 555.5V931.8M473.6 555.5V931.8M724.5 555.5V931.8" class="g1_19"/>
+<path fill-rule="evenodd" d="M186 505.1H398v.8H186v-.8Z" class="g2_19"/>
+<path fill-rule="evenodd" d="M397.9 505.1H399v.8h-1.1v-.8Z" class="g2_19"/>
+<path fill-rule="evenodd" d="M398.8 505.1H474v.8H398.8v-.8Z" class="g2_19"/>
+<path fill-rule="evenodd" d="M473.9 505.1H475v.8h-1.1v-.8Z" class="g2_19"/>
+<path fill-rule="evenodd" d="M474.8 505.1H723.9v.8H474.8v-.8Z" class="g2_19"/>
+</svg>
